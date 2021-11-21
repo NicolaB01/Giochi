@@ -1,0 +1,3 @@
+Tommaso 5 0 1 
+Nicola 0 4 1 
+Marco 0 1 0 
